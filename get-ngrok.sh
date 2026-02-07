@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 echo "Downloading ngrok..."
 case `dpkg --print-architecture` in
 aarch64)
